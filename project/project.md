@@ -1,5 +1,5 @@
+# Analysis of 2020 MLB Season Statistics 
 
-## Analysis of 2020 MLB Season Statistics 
 
 - [ ] Please use our template
 - [ ] Please improve the missing content in the topics and add references. (Vibhatha)
