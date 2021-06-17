@@ -1,5 +1,7 @@
+
 # Analysis of 2020 MLB Season Statistics 
 
+[edit](https://github.com/cybertraining-dsc/fa20-523-308/edit/main/project/project.md)
 
 - [ ] Please use our template
 - [ ] Please improve the missing content in the topics and add references. (Vibhatha)
@@ -7,6 +9,8 @@
 Edward Hribal
 edhribal@iu.edu
 INFO-I 423
+
+
 
 {{% pageinfo %}}
 
